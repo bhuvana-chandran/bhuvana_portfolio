@@ -1,0 +1,16 @@
+[
+  {
+    "role": "FullStack developer",
+    "organisation": "Litz Tech Pvt Ltd",
+    "startDate": "Jan, 2023",
+    "endDate": "Present",
+    "experiences": [
+          "Developed user-facing features and reusable components in React.js.",
+          "Implemented server-side architecture using Node.js, Express.js, and MongoDB for effective data management.",
+          "Created and optimized RESTful APIs to facilitate seamless communication between front-end and back-end systems, ensuring application performance and reliability.",
+          "Troubleshoot and debugged full-stack issues.",
+          "Stayed updated with emerging technologies and best practices to continuously improve project workflows."
+    ],
+    "imageSrc": "history/google.png"
+  }
+]
