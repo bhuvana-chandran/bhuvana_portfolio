@@ -2,10 +2,10 @@
   {
     "title": "AI- ChatBot ",
     "imageSrc": "projects/chatAi.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a Saas project made to use Chat Ai.",
+    "skills": ["React", "Express", "Node", "Sass", "Mui", "TypeScript"],
+    "demo": "https://mern-ai-chatbot-frontend.onrender.com/",
+    "source": "https://github.com/bhuvana-chandran/MERN-AI-ChatBot"
   },
   {
     "title": "Project B",
