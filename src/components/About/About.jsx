@@ -1,7 +1,6 @@
 import React from "react";
 
 import styles from "./About.module.css";
-import { Typography, Avatar } from "@mui/material";
 import { getImageUrl } from "../../utils";
 
 export const About = () => {
@@ -20,26 +19,26 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h2>Full Stack Developer</h2>
               <br />
-              <Typography variant="h6" sx={{ marginBottom: 1 }}>
+              <p variant="h6" sx={{ marginBottom: 1 }}>
                 💻 <strong>Experienced Full-Stack Developer</strong>
-              </Typography>
-              <Typography variant="body1" paragraph>
+              </p>
+              <p variant="body1" paragraph>
                 With <strong>2 years of IT industry experience</strong>, including <strong>1.5 years in full-stack development</strong> using the <strong>MERN stack</strong>, I specialize in designing and developing <strong>scalable web applications</strong> and building <strong>RESTful APIs</strong>. My expertise includes <strong>optimizing front-end/back-end performance</strong> and delivering user-friendly solutions.
-              </Typography>
+              </p>
 
-              <Typography variant="h6" sx={{ marginBottom: 1 }}>
+              <p variant="h6" sx={{ marginBottom: 1 }}>
                 🤖 <strong>Passionate About Innovation</strong>
-              </Typography>
-              <Typography variant="body1" paragraph>
+              </p>
+              <p variant="body1" paragraph>
                 I am deeply interested in <strong>machine learning</strong> and <strong>artificial intelligence</strong>. With hands-on experience in <strong>fine-tuning large language models (LLMs)</strong>, I have enhanced application functionality, customer engagement, and business efficiency.
-              </Typography>
+              </p>
 
-              <Typography variant="h6" sx={{ marginBottom: 1 }}>
+              <p variant="h6" sx={{ marginBottom: 1 }}>
                 👨‍💻 <strong>Team Collaboration & Agile</strong>
-              </Typography>
-              <Typography variant="body1">
+              </p>
+              <p variant="body1">
                 A dedicated team player, I thrive in <strong>Agile/Scrum environments</strong> and contribute to project success through efficient teamwork and collaboration. I am committed to delivering <strong>data-driven solutions</strong> with a focus on quality and performance.
-              </Typography>
+              </p>
             </div>
           </li>
           {/* <li className={styles.aboutItem}>
