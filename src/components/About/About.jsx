@@ -19,13 +19,18 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h2>Full Stack Developer</h2>
               <br />
-              <p>
-                I'm a Full Stack Developer with 1+ years of experience in
-                building responsive, high-performance websites and applications.
-                Skilled in creating optimized, user-friendly interfaces and
-                robust backend systems, I bring a comprehensive approach to
-                development that enhances functionality and user experience.
-              </p>
+              <p class="text-lg text-gray-700 mb-6">
+      💻 <strong>Experienced Full-Stack Developer</strong><br>
+      With <strong>2 years of IT industry experience</strong>, including <strong>1.5 years in full-stack development</strong> using the <strong>MERN stack</strong>, I specialize in designing and developing <strong>scalable web applications</strong> and building <strong>RESTful APIs</strong>. My expertise includes <strong>optimizing front-end/back-end performance</strong> and delivering user-friendly solutions.
+    </p>
+    <p class="text-lg text-gray-700 mb-6">
+      🤖 <strong>Passionate About Innovation</strong><br>
+      I am deeply interested in <strong>machine learning</strong> and <strong>artificial intelligence</strong>. With hands-on experience in <strong>fine-tuning large language models (LLMs)</strong>, I have enhanced application functionality, customer engagement, and business efficiency.
+    </p>
+    <p class="text-lg text-gray-700">
+      👨‍💻 <strong>Team Collaboration & Agile</strong><br>
+      A dedicated team player, I thrive in <strong>Agile/Scrum environments</strong> and contribute to project success through efficient teamwork and collaboration. I am committed to delivering <strong>data-driven solutions</strong> with a focus on quality and performance.
+    </p>
             </div>
           </li>
           {/* <li className={styles.aboutItem}>
