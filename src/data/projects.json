@@ -3,7 +3,7 @@
     "title": "AI- ChatBot ",
     "imageSrc": "projects/chatAi.png",
     "description": "This is a Saas project made to use Chat Ai.",
-    "skills": ["React", "Express", "Node", "Sass", "Mui", "TypeScript"],
+    "skills": ["React", "Express", "Node", "SasS", "MUI", "TypeScript"],
     "site": "https://mern-ai-chatbot-frontend.onrender.com/",
     "source": "https://github.com/bhuvana-chandran/MERN-AI-ChatBot"
   }
