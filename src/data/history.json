@@ -4,13 +4,16 @@
     "organisation": "Litz Tech Pvt Ltd",
     "startDate": "Jan, 2023",
     "endDate": "Present",
-    "experiences": [
-          "Developed user-facing features and reusable components in React.js.",
-          "Implemented server-side architecture using Node.js, Express.js, and MongoDB for effective data management.",
-          "Created and optimized RESTful APIs to facilitate seamless communication between front-end and back-end systems, ensuring application performance and reliability.",
-          "Troubleshoot and debugged full-stack issues.",
-          "Stayed updated with emerging technologies and best practices to continuously improve project workflows."
-    ],
+     "experiences": [
+    "Developed user-facing features and reusable components for an E-commerce platform using React.js, ensuring secure authentication, payment integration, and real-time notifications, while optimizing performance with Redux, MUI, and middleware.",
+    "Implemented server-side architecture for the platform using Node.js, Express.js, and MongoDB, ensuring effective data management, smooth user experience, and scalability.",
+    "Integrated a fine-tuned LLM for customer support, enhancing query resolution by 35%, automating personalized marketing, and increasing client onboarding by 40% for better engagement.",
+    "Built a multi-school management app leveraging advanced data aggregation, dynamic PDF generation, and expense tracking, improving administrative efficiency by 50%.",
+    "Developed a certificate printing app with optimized backend APIs, reducing certificate generation time by 25% and improving overall processing speed by 20% for faster and reliable operations.",
+    "Delivered 10+ static websites using React, HTML, CSS, JavaScript, and Tailwind CSS, ensuring 100% responsiveness and reducing page load time by 30% for better performance and user experience.",
+    "Enhanced application quality by 25% through the use of lazy loading, middleware for efficient API handling, and advanced state management with Redux.",
+    "Collaborated in Agile teams using tools like Jira and Trello, achieving 95% on-time delivery while maintaining high code quality and ensuring smooth project progress."
+  ],
     "imageSrc": "history/google.png"
   }
 ]
