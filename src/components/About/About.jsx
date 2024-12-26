@@ -1,7 +1,7 @@
 import React from "react";
 
 import styles from "./About.module.css";
-import { Typography} from "@mui/material";
+import { Typography, Avatar } from "@mui/material";
 import { getImageUrl } from "../../utils";
 
 export const About = () => {
