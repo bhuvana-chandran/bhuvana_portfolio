@@ -19,8 +19,6 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h2>Full Stack Developer</h2>
               <br />
-               <Grid item xs={12} sm={6}>
-            <Box sx={{ maxWidth: 600 }}>
               <Typography variant="h6" sx={{ marginBottom: 1 }}>
                 💻 <strong>Experienced Full-Stack Developer</strong>
               </Typography>
@@ -41,8 +39,6 @@ export const About = () => {
               <Typography variant="body1">
                 A dedicated team player, I thrive in <strong>Agile/Scrum environments</strong> and contribute to project success through efficient teamwork and collaboration. I am committed to delivering <strong>data-driven solutions</strong> with a focus on quality and performance.
               </Typography>
-            </Box>
-          </Grid>
             </div>
           </li>
           {/* <li className={styles.aboutItem}>
